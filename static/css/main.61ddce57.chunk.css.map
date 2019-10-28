@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,QACE,aAAgB,CAChB,4BAAsB,CAAtB,oBACF","file":"main.61ddce57.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\na:hover {\n  color: cadetblue;\n  transition: color 0.5s;\n}\n"]}
